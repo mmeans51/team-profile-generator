@@ -1,5 +1,5 @@
 {
-  "name": "clear",
+  "name": "idk",
   "version": "1.0.0",
   "description": "",
   "main": "indes.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mmeans51/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/mmeans51/team-profile-generator#readme"
+  "homepage": "https://github.com/mmeans51/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
